@@ -1,0 +1,2 @@
+The is my first python project in August AI Roadmap repository. I created a code to arrange and sort all types of files into their respective folder, where the folder is not present it will create  the folder.
+The projcet folder contains four files: main.py (contains the main python code), config.py (contains the file formats and folder names, so that folder names and extensions can be changed easily), test_folder(contains empty test files used for this purpose) and README.md(contains a brief description of the project and its content)
